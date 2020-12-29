@@ -1,0 +1,6 @@
+/mock
+.eslintrc.js
+/deploy
+/public
+/src/pages/policy
+/src/pages/agreement
